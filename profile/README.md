@@ -15,6 +15,15 @@ By surfacing exactly what’s driving cost and value, Payloop becomes the source
 
 Sign up here: [trypayloop.com](https://trypayloop.com/)
 
+## Developer Documentation
+
+Our SDK reference provides documentation for:
+- Understanding how Payloop works
+- Demonstrating how to integrate Payloop into your product
+- Code samples to illustrate our SDK and API
+
+Check it out here: [developers.trypayloop.com](https://developers.trypayloop.com)
+
 ## Packages
 
 ### Python
